@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+.con{
+	width:1003px;
+	height:600px;
+	background-image:url(img/login.jpg);
+}
+form{
+	width:400px;
+	height:150px;
+	position:relative;
+	top:250px;
+	left:320px;
+	border:1px solid #000;
+	}
+form label{
+	display:inline-block;
+	width:70px;
+	height:20px;
+	}
+.in{
+	width:120px;
+	}
+#login-btn{
+	position:relative;
+	bottom:70px;
+	left:230px;
+	}
+#usname{
+	backgroud-image:url(img/user.gif);
+	}
+
+
